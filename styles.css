@@ -1,4 +1,10 @@
+* {
+  font-family: Verdana, Geneva, sans-serif;
+}
 body {
   background-color: #ffffe6;
   text-align: center;
  }
+ul {
+  list-style-type: none;
+}
